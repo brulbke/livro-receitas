@@ -7,3 +7,5 @@ Livro de receitas para teste
 - Pudim
 - Café com leite
 
+
+- Chocolate quente
